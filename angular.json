@@ -38,7 +38,8 @@
               "node_modules/pace-js/templates/pace-theme-flash.tmpl.css",
               "node_modules/leaflet/dist/leaflet.css",
               "src/app/@theme/styles/styles.scss",
-              "node_modules/summernote/dist/summernote-lite.css"
+              "node_modules/summernote/dist/summernote-lite.css",
+              "node_modules/ngx-tree-dnd/styles-tree-dnd.css"
             ],
             "scripts": [
               "node_modules/pace-js/pace.min.js",

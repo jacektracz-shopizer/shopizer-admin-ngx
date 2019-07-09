@@ -79,6 +79,7 @@
     "ngx-echarts": "^4.0.1",
     "ngx-summernote": "^0.6.5",
     "ngx-toastr": "^10.0.4",
+    "ngx-tree-dnd": "^2.6.0",
     "normalize.css": "6.0.0",
     "pace-js": "1.0.2",
     "roboto-fontface": "0.8.0",
